@@ -1,7 +1,7 @@
 # project-github
 Intrucões para teste após rodar projeto:
 # 1) 
-Após rodar o projeto, enviar para o endpoint (GET) http://localhost:8080/auth o objeto:
+Após rodar o projeto, enviar para o endpoint (POST) http://localhost:8080/auth o objeto:
 {
     "username":"admin",
     "password":"12345"
